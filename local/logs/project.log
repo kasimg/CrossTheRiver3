@@ -1,0 +1,67 @@
+2019-04-28T02:00:09.220Z - normal: Load ~/.CocosCreator/settings.json
+2019-04-28T02:00:09.297Z - normal: Initializing Asset Database
+2019-04-28T02:00:09.305Z - normal: checking language setting...
+2019-04-28T02:00:09.305Z - normal: Language: zh
+2019-04-28T02:00:10.231Z - success: preview server running at http://localhost:7456
+2019-04-28T02:00:10.249Z - success: protocol editor-framework registered
+2019-04-28T02:00:10.249Z - success: protocol app registered
+2019-04-28T02:00:10.249Z - success: protocol theme registered
+2019-04-28T02:00:10.249Z - success: protocol packages registered
+2019-04-28T02:00:10.249Z - success: protocol uuid registerred
+2019-04-28T02:00:10.250Z - success: protocol db registerred
+2019-04-28T02:00:10.250Z - success: protocol thumbnail registerred
+2019-04-28T02:00:10.250Z - success: protocol unpack registerred
+2019-04-28T02:00:10.250Z - success: protocol disable-commonjs registerred
+2019-04-28T02:00:10.346Z - normal: connected!
+2019-04-28T02:00:10.348Z - normal: Check project /Users/admin/Documents/cocos/CrossTheRiver3
+2019-04-28T02:00:10.350Z - normal: Initializing project /Users/admin/Documents/cocos/CrossTheRiver3
+2019-04-28T02:00:10.862Z - normal: Initializing Cocos2d
+2019-04-28T02:00:12.020Z - normal: Initializing engine extends
+2019-04-28T02:00:12.066Z - success: asset-db-debugger loaded
+2019-04-28T02:00:12.082Z - success: baidu-adapter loaded
+2019-04-28T02:00:12.088Z - success: color-picker loaded
+2019-04-28T02:00:12.198Z - success: fb-audience-network loaded
+2019-04-28T02:00:12.288Z - success: fb-live-stream loaded
+2019-04-28T02:00:12.294Z - success: google-play-instant loaded
+2019-04-28T02:00:12.307Z - success: huawei-runtime loaded
+2019-04-28T02:00:12.309Z - success: jsb-adapter loaded
+2019-04-28T02:00:12.320Z - success: oppo-runtime loaded
+2019-04-28T02:00:12.330Z - success: package-manager loaded
+2019-04-28T02:00:12.493Z - success: qqplay-adapter loaded
+2019-04-28T02:00:12.498Z - success: runtime-dev-tools loaded
+2019-04-28T02:00:12.508Z - success: sdkbox loaded
+2019-04-28T02:00:12.518Z - success: tester loaded
+2019-04-28T02:00:12.527Z - success: ui-grid loaded
+2019-04-28T02:00:12.535Z - success: ui-kit-preview-extra loaded
+2019-04-28T02:00:12.542Z - success: ui-kit-preview loaded
+2019-04-28T02:00:12.551Z - success: ui-kit loaded
+2019-04-28T02:00:12.558Z - success: ui-tree loaded
+2019-04-28T02:00:12.569Z - success: vivo-runtime loaded
+2019-04-28T02:00:12.571Z - success: weapp-adapter loaded
+2019-04-28T02:00:12.620Z - success: assets loaded
+2019-04-28T02:00:12.624Z - success: builder loaded
+2019-04-28T02:00:12.922Z - success: cocos-services loaded
+2019-04-28T02:00:12.928Z - success: console loaded
+2019-04-28T02:00:12.967Z - success: fb-instant-games loaded
+2019-04-28T02:00:12.972Z - success: google-instant-games loaded
+2019-04-28T02:00:12.980Z - success: hierarchy loaded
+2019-04-28T02:00:12.985Z - success: inspector loaded
+2019-04-28T02:00:12.987Z - success: keystore loaded
+2019-04-28T02:00:12.993Z - success: node-library loaded
+2019-04-28T02:00:12.995Z - success: package-asset loaded
+2019-04-28T02:00:12.999Z - success: preferences loaded
+2019-04-28T02:00:13.004Z - success: project-exporter loaded
+2019-04-28T02:00:13.014Z - success: project-importer loaded
+2019-04-28T02:00:13.019Z - success: project-settings loaded
+2019-04-28T02:00:13.026Z - success: scene loaded
+2019-04-28T02:00:13.034Z - success: simulator-debugger loaded
+2019-04-28T02:00:13.037Z - success: sprite-editor loaded
+2019-04-28T02:00:13.042Z - success: store loaded
+2019-04-28T02:00:13.049Z - success: timeline loaded
+2019-04-28T02:00:14.554Z - normal: Loading packages
+2019-04-28T02:00:14.562Z - normal: Watching packages
+2019-04-28T02:00:14.736Z - normal: Run Application
+2019-04-28T02:00:15.080Z - info: Cocos Services load base data!
+2019-04-28T02:01:37.712Z - success: VS Code extension installed to /Users/admin/.vscode/extensions
+2019-04-28T02:01:39.944Z - success: API data generated and copied to /Users/admin/Documents/cocos/CrossTheRiver3/creator.d.ts
+2019-04-28T02:01:46.188Z - success: Compiling task has been added to .vscode/tasks.json, please run "compile" task in VS Code to trigger compile in Cocos Creator.
